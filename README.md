@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 - 💻 I specialize in web development using technologies like React,Next, typescript/javascript for frontend and nodejs, mongodb, express, typescript for backend
 - 🌱 I'm currently learning Rust to explore systems programming and blockchain development.
 - 🤝 I love collaborating on open-source projects and contributing to the developer community.
+- 🎵 I possess a profound affinity for music, demonstrating proficiency in both guitar playing and vocal expression.
+- 
 
 ## 🌐 Web3 and Blockchain
 
