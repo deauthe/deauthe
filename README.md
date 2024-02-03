@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Anurag
 
 Welcome to my GitHub profile! I'm a passionate web developer with a keen interest in web3 and blockchain technologies. Currently, I'm diving into the world of Rust programming language to broaden my skill set.
 
@@ -14,15 +14,15 @@ I'm excited about the potential of decentralized technologies. My focus on web3 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Rust
-- **Frameworks:** [List any frameworks you are comfortable with]
-- **Tools:** [List any development tools you regularly use]
+- **Languages:**  JavaScript, TypeScript, Java, Tailwindcss,  Rust
+- **Frameworks:** React, Nextjs, mongoDB, express, recoil, redux, solidity
+- **Tools:** postman, nodejs, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deauthe&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deauthe&layout=compact)
 
 ## 🤝 Let's Connect
 
