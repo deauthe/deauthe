@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## 🚀 About Me
 
-- 💻 I specialize in web development using technologies like HTML, CSS, JavaScript, and various frameworks.
+- 💻 I specialize in web development using technologies like React,Next, typescript/javascript for frontend and nodejs, mongodb, express, typescript for backend
 - 🌱 I'm currently learning Rust to explore systems programming and blockchain development.
 - 🤝 I love collaborating on open-source projects and contributing to the developer community.
 
@@ -26,7 +26,7 @@ I'm excited about the potential of decentralized technologies. My focus on web3 
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: (https://www.linkedin.com/in/anurag-verma-585042237/)
+
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat. Happy coding! 🚀
