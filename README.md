@@ -1,23 +1,23 @@
 # 👋 Hello, I'm Anurag
 
-Welcome to my GitHub profile! I'm a passionate web developer with a keen interest in web3 and blockchain technologies. Currently, I'm diving into the world of Rust programming language to broaden my skill set.
+I code, I blabber, I sing. 
 
 ## 🚀 About Me
 
 - 💻 I specialize in web development using technologies like React,Next, typescript/javascript for frontend and nodejs, mongodb, express, typescript for backend
 - 🌱 I'm currently learning Rust to explore systems programming and blockchain development.
 - 🤝 I love collaborating on open-source projects and contributing to the developer community.
-- 🎵 I possess a profound affinity for music, demonstrating proficiency in both guitar playing and vocal expression.
-- 
+- 🎵 I play guitar, i sing, and can look at thom yorke doing nothing for hours
+
 
 ## 🌐 Web3 and Blockchain
 
-I'm excited about the potential of decentralized technologies. My focus on web3 and blockchain development reflects my commitment to staying at the forefront of the rapidly evolving tech landscape.
+I'm excited about the potential of decentralized technologies. I have won two blockchain hackathons with a prize pool of $12k and $100k. One being the AndromedaOs and the other being Archway. I love the community and because of how new it is, i feel like it's easier to get your hands dirty pretty quickly.
 
 ## 🛠️ Tech Stack
 
 - **Languages:**  JavaScript, TypeScript, Java, Tailwindcss,  Rust
-- **Frameworks:** React, Nextjs, mongoDB, express, recoil, redux, solidity
+- **Frameworks:** React, Nextjs, mongoDB, express, recoil, redux, solidity, Cosmwasm
 - **Tools:** postman, nodejs, 
 
 ## 📈 GitHub Stats
